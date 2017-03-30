@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>PHP Forms</title>
+    <title>PHP mysql</title>
 </head>
 <body>
 <?php
