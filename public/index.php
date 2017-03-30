@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>PHP mysql</title>
+    <title>PHP MYSQL</title>
 </head>
 <body>
+<a href="subscriber-list.php">view subscribers</a>
 <?php
     if(isset($_GET['message']))
     {
