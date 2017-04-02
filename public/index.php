@@ -1,10 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>PHP MYSQL</title>
-</head>
-<body>
+<?php
+    require('header.php');
+?>
 <a href="subscriber-list.php">view subscribers</a>
 <?php
     if(isset($_GET['message']))
@@ -21,5 +17,4 @@
             <input type="submit" value="Verstuur">
         </div>
     </form>
-</body>
-</html>
+<?php require('footer.php'); ?>
